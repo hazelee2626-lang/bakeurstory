@@ -735,4 +735,7 @@ function Drawer({ ep, delay, onCopy, onDelete, onDownloadSvg }) {
     </div>
   );
 }
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
+
 export default App;
