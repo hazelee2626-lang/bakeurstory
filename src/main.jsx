@@ -735,3 +735,4 @@ function Drawer({ ep, delay, onCopy, onDelete, onDownloadSvg }) {
     </div>
   );
 }
+export default App;
